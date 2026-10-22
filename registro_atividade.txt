@@ -1,0 +1,2 @@
+Registro da atividade de Gerenciamento de Configuracao.
+Nesta pratica, utilizei o Git para controlar alteracoes e o GitHub para armazenar o projeto.
